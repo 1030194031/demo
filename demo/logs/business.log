@@ -1,0 +1,165 @@
+2016-01-31 16:22:33.366 INFO  org.quartz.impl.StdSchedulerFactory - Using default implementation for ThreadExecutor
+2016-01-31 16:22:33.379 INFO  o.quartz.core.SchedulerSignalerImpl - Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl
+2016-01-31 16:22:33.379 INFO  org.quartz.core.QuartzScheduler - Quartz Scheduler v.2.2.1 created.
+2016-01-31 16:22:33.380 INFO  org.quartz.simpl.RAMJobStore - RAMJobStore initialized.
+2016-01-31 16:22:33.381 INFO  org.quartz.core.QuartzScheduler - Scheduler meta-data: Quartz Scheduler (v2.2.1) 'org.springframework.scheduling.quartz.SchedulerFactoryBean#0' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'org.quartz.core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'org.quartz.simpl.SimpleThreadPool' - with 10 threads.
+  Using job-store 'org.quartz.simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+
+2016-01-31 16:22:33.381 INFO  org.quartz.impl.StdSchedulerFactory - Quartz scheduler 'org.springframework.scheduling.quartz.SchedulerFactoryBean#0' initialized from an externally provided properties instance.
+2016-01-31 16:22:33.381 INFO  org.quartz.impl.StdSchedulerFactory - Quartz scheduler version: 2.2.1
+2016-01-31 16:22:33.382 INFO  org.quartz.core.QuartzScheduler - JobFactory set to: org.springframework.scheduling.quartz.AdaptableJobFactory@628ab9e6
+2016-01-31 16:22:33.387 INFO  org.quartz.core.QuartzScheduler - Scheduler org.springframework.scheduling.quartz.SchedulerFactoryBean#0_$_NON_CLUSTERED started.
+2016-01-31 16:22:33.387 DEBUG o.quartz.core.QuartzSchedulerThread - batch acquisition of 0 triggers
+2016-01-31 16:22:34.379 DEBUG org.quartz.utils.UpdateChecker - Checking for available updated version of Quartz...
+2016-01-31 16:22:57.618 DEBUG o.quartz.core.QuartzSchedulerThread - batch acquisition of 0 triggers
+2016-01-31 18:17:27.661 INFO  org.quartz.impl.StdSchedulerFactory - Using default implementation for ThreadExecutor
+2016-01-31 18:17:27.675 INFO  o.quartz.core.SchedulerSignalerImpl - Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl
+2016-01-31 18:17:27.675 INFO  org.quartz.core.QuartzScheduler - Quartz Scheduler v.2.2.1 created.
+2016-01-31 18:17:27.676 INFO  org.quartz.simpl.RAMJobStore - RAMJobStore initialized.
+2016-01-31 18:17:27.677 INFO  org.quartz.core.QuartzScheduler - Scheduler meta-data: Quartz Scheduler (v2.2.1) 'org.springframework.scheduling.quartz.SchedulerFactoryBean#0' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'org.quartz.core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'org.quartz.simpl.SimpleThreadPool' - with 10 threads.
+  Using job-store 'org.quartz.simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+
+2016-01-31 18:17:27.677 INFO  org.quartz.impl.StdSchedulerFactory - Quartz scheduler 'org.springframework.scheduling.quartz.SchedulerFactoryBean#0' initialized from an externally provided properties instance.
+2016-01-31 18:17:27.677 INFO  org.quartz.impl.StdSchedulerFactory - Quartz scheduler version: 2.2.1
+2016-01-31 18:17:27.678 INFO  org.quartz.core.QuartzScheduler - JobFactory set to: org.springframework.scheduling.quartz.AdaptableJobFactory@78111e15
+2016-01-31 18:17:27.713 INFO  org.quartz.core.QuartzScheduler - Scheduler org.springframework.scheduling.quartz.SchedulerFactoryBean#0_$_NON_CLUSTERED started.
+2016-01-31 18:17:27.713 DEBUG o.quartz.core.QuartzSchedulerThread - batch acquisition of 0 triggers
+2016-01-31 18:17:28.675 DEBUG org.quartz.utils.UpdateChecker - Checking for available updated version of Quartz...
+2016-01-31 18:17:50.865 DEBUG o.quartz.core.QuartzSchedulerThread - batch acquisition of 0 triggers
+2016-01-31 18:18:16.838 DEBUG o.quartz.core.QuartzSchedulerThread - batch acquisition of 0 triggers
+2016-01-31 18:18:44.903 DEBUG o.quartz.core.QuartzSchedulerThread - batch acquisition of 0 triggers
+2016-01-31 18:19:08.984 DEBUG o.quartz.core.QuartzSchedulerThread - batch acquisition of 0 triggers
+2016-01-31 18:19:34.284 DEBUG o.quartz.core.QuartzSchedulerThread - batch acquisition of 0 triggers
+2016-01-31 18:20:03.089 DEBUG o.quartz.core.QuartzSchedulerThread - batch acquisition of 0 triggers
+2016-01-31 18:20:29.409 DEBUG o.quartz.core.QuartzSchedulerThread - batch acquisition of 0 triggers
+2016-01-31 18:20:59.076 DEBUG o.quartz.core.QuartzSchedulerThread - batch acquisition of 0 triggers
+2016-01-31 18:21:25.164 DEBUG o.quartz.core.QuartzSchedulerThread - batch acquisition of 0 triggers
+2016-01-31 18:21:50.997 DEBUG o.quartz.core.QuartzSchedulerThread - batch acquisition of 0 triggers
+2016-01-31 18:22:19.504 DEBUG o.quartz.core.QuartzSchedulerThread - batch acquisition of 0 triggers
+2016-01-31 18:22:45.398 DEBUG o.quartz.core.QuartzSchedulerThread - batch acquisition of 0 triggers
+2016-01-31 18:23:10.122 DEBUG o.quartz.core.QuartzSchedulerThread - batch acquisition of 0 triggers
+2016-01-31 18:23:38.545 DEBUG o.quartz.core.QuartzSchedulerThread - batch acquisition of 0 triggers
+2016-01-31 18:24:06.992 INFO  org.quartz.impl.StdSchedulerFactory - Using default implementation for ThreadExecutor
+2016-01-31 18:24:07.006 INFO  o.quartz.core.SchedulerSignalerImpl - Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl
+2016-01-31 18:24:07.006 INFO  org.quartz.core.QuartzScheduler - Quartz Scheduler v.2.2.1 created.
+2016-01-31 18:24:07.007 INFO  org.quartz.simpl.RAMJobStore - RAMJobStore initialized.
+2016-01-31 18:24:07.008 INFO  org.quartz.core.QuartzScheduler - Scheduler meta-data: Quartz Scheduler (v2.2.1) 'org.springframework.scheduling.quartz.SchedulerFactoryBean#0' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'org.quartz.core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'org.quartz.simpl.SimpleThreadPool' - with 10 threads.
+  Using job-store 'org.quartz.simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+
+2016-01-31 18:24:07.008 INFO  org.quartz.impl.StdSchedulerFactory - Quartz scheduler 'org.springframework.scheduling.quartz.SchedulerFactoryBean#0' initialized from an externally provided properties instance.
+2016-01-31 18:24:07.008 INFO  org.quartz.impl.StdSchedulerFactory - Quartz scheduler version: 2.2.1
+2016-01-31 18:24:07.009 INFO  org.quartz.core.QuartzScheduler - JobFactory set to: org.springframework.scheduling.quartz.AdaptableJobFactory@5ac50235
+2016-01-31 18:24:07.043 INFO  org.quartz.core.QuartzScheduler - Scheduler org.springframework.scheduling.quartz.SchedulerFactoryBean#0_$_NON_CLUSTERED started.
+2016-01-31 18:24:07.043 DEBUG o.quartz.core.QuartzSchedulerThread - batch acquisition of 0 triggers
+2016-01-31 18:24:08.006 DEBUG org.quartz.utils.UpdateChecker - Checking for available updated version of Quartz...
+2016-01-31 18:24:18.361 DEBUG UserMapper.queryUserPageCount - ==>  Preparing: select count(1) from user_user where 1=1 
+2016-01-31 18:24:18.383 DEBUG UserMapper.queryUserPageCount - ==> Parameters: 
+2016-01-31 18:24:18.403 DEBUG UserMapper.queryUserPageCount - <==      Total: 1
+2016-01-31 18:24:18.406 DEBUG UserMapper.queryUserPage - ==>  Preparing: select user_user.id, user_user.nickname, user_user.pic, user_user.content from user_user where 1=1 order by id desc limit ? ,? 
+2016-01-31 18:24:18.407 DEBUG UserMapper.queryUserPage - ==> Parameters: 0(Integer), 5(Integer)
+2016-01-31 18:24:18.409 DEBUG UserMapper.queryUserPage - <==      Total: 1
+2016-01-31 18:24:26.376 DEBUG SubjectMapper.getSubjectList - ==>  Preparing: select subject.id, subject.name, subject.parent_id from subject 
+2016-01-31 18:24:26.377 DEBUG SubjectMapper.getSubjectList - ==> Parameters: 
+2016-01-31 18:24:26.384 DEBUG SubjectMapper.getSubjectList - <==      Total: 0
+2016-01-31 18:24:28.619 DEBUG SubjectMapper.createSubject - ==>  Preparing: insert into subject ( subject.id, subject.name, subject.parent_id ) values ( ?, ?, ? ) 
+2016-01-31 18:24:28.622 DEBUG SubjectMapper.createSubject - ==> Parameters: null, 新建专业(String), 0(Long)
+2016-01-31 18:24:28.623 DEBUG SubjectMapper.createSubject - <==    Updates: 1
+2016-01-31 18:24:31.221 DEBUG SubjectMapper.getSubjectList - ==>  Preparing: select subject.id, subject.name, subject.parent_id from subject 
+2016-01-31 18:24:31.222 DEBUG SubjectMapper.getSubjectList - ==> Parameters: 
+2016-01-31 18:24:31.224 DEBUG SubjectMapper.getSubjectList - <==      Total: 1
+2016-01-31 18:24:31.544 DEBUG o.quartz.core.QuartzSchedulerThread - batch acquisition of 0 triggers
+2016-01-31 18:24:32.265 DEBUG SubjectMapper.getSubjectList - ==>  Preparing: select subject.id, subject.name, subject.parent_id from subject 
+2016-01-31 18:24:32.266 DEBUG SubjectMapper.getSubjectList - ==> Parameters: 
+2016-01-31 18:24:32.267 DEBUG SubjectMapper.getSubjectList - <==      Total: 1
+2016-01-31 18:24:32.597 DEBUG SubjectMapper.getSubjectList - ==>  Preparing: select subject.id, subject.name, subject.parent_id from subject 
+2016-01-31 18:24:32.598 DEBUG SubjectMapper.getSubjectList - ==> Parameters: 
+2016-01-31 18:24:32.601 DEBUG SubjectMapper.getSubjectList - <==      Total: 1
+2016-01-31 18:24:32.788 DEBUG SubjectMapper.getSubjectList - ==>  Preparing: select subject.id, subject.name, subject.parent_id from subject 
+2016-01-31 18:24:32.789 DEBUG SubjectMapper.getSubjectList - ==> Parameters: 
+2016-01-31 18:24:32.793 DEBUG SubjectMapper.getSubjectList - <==      Total: 1
+2016-01-31 18:24:32.948 DEBUG SubjectMapper.getSubjectList - ==>  Preparing: select subject.id, subject.name, subject.parent_id from subject 
+2016-01-31 18:24:32.949 DEBUG SubjectMapper.getSubjectList - ==> Parameters: 
+2016-01-31 18:24:32.951 DEBUG SubjectMapper.getSubjectList - <==      Total: 1
+2016-01-31 18:24:33.069 DEBUG SubjectMapper.getSubjectList - ==>  Preparing: select subject.id, subject.name, subject.parent_id from subject 
+2016-01-31 18:24:33.070 DEBUG SubjectMapper.getSubjectList - ==> Parameters: 
+2016-01-31 18:24:33.071 DEBUG SubjectMapper.getSubjectList - <==      Total: 1
+2016-01-31 18:24:55.801 DEBUG o.quartz.core.QuartzSchedulerThread - batch acquisition of 0 triggers
+2016-01-31 18:25:28.596 INFO  org.quartz.impl.StdSchedulerFactory - Using default implementation for ThreadExecutor
+2016-01-31 18:25:28.609 INFO  o.quartz.core.SchedulerSignalerImpl - Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl
+2016-01-31 18:25:28.609 INFO  org.quartz.core.QuartzScheduler - Quartz Scheduler v.2.2.1 created.
+2016-01-31 18:25:28.610 INFO  org.quartz.simpl.RAMJobStore - RAMJobStore initialized.
+2016-01-31 18:25:28.611 INFO  org.quartz.core.QuartzScheduler - Scheduler meta-data: Quartz Scheduler (v2.2.1) 'org.springframework.scheduling.quartz.SchedulerFactoryBean#0' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'org.quartz.core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'org.quartz.simpl.SimpleThreadPool' - with 10 threads.
+  Using job-store 'org.quartz.simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+
+2016-01-31 18:25:28.611 INFO  org.quartz.impl.StdSchedulerFactory - Quartz scheduler 'org.springframework.scheduling.quartz.SchedulerFactoryBean#0' initialized from an externally provided properties instance.
+2016-01-31 18:25:28.611 INFO  org.quartz.impl.StdSchedulerFactory - Quartz scheduler version: 2.2.1
+2016-01-31 18:25:28.612 INFO  org.quartz.core.QuartzScheduler - JobFactory set to: org.springframework.scheduling.quartz.AdaptableJobFactory@2cafa567
+2016-01-31 18:25:28.646 INFO  org.quartz.core.QuartzScheduler - Scheduler org.springframework.scheduling.quartz.SchedulerFactoryBean#0_$_NON_CLUSTERED started.
+2016-01-31 18:25:28.647 DEBUG o.quartz.core.QuartzSchedulerThread - batch acquisition of 0 triggers
+2016-01-31 18:25:29.609 DEBUG org.quartz.utils.UpdateChecker - Checking for available updated version of Quartz...
+2016-01-31 18:25:53.144 DEBUG o.quartz.core.QuartzSchedulerThread - batch acquisition of 0 triggers
+2016-01-31 18:26:12.509 INFO  org.quartz.impl.StdSchedulerFactory - Using default implementation for ThreadExecutor
+2016-01-31 18:26:12.522 INFO  o.quartz.core.SchedulerSignalerImpl - Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl
+2016-01-31 18:26:12.522 INFO  org.quartz.core.QuartzScheduler - Quartz Scheduler v.2.2.1 created.
+2016-01-31 18:26:12.523 INFO  org.quartz.simpl.RAMJobStore - RAMJobStore initialized.
+2016-01-31 18:26:12.524 INFO  org.quartz.core.QuartzScheduler - Scheduler meta-data: Quartz Scheduler (v2.2.1) 'org.springframework.scheduling.quartz.SchedulerFactoryBean#0' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'org.quartz.core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'org.quartz.simpl.SimpleThreadPool' - with 10 threads.
+  Using job-store 'org.quartz.simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+
+2016-01-31 18:26:12.524 INFO  org.quartz.impl.StdSchedulerFactory - Quartz scheduler 'org.springframework.scheduling.quartz.SchedulerFactoryBean#0' initialized from an externally provided properties instance.
+2016-01-31 18:26:12.524 INFO  org.quartz.impl.StdSchedulerFactory - Quartz scheduler version: 2.2.1
+2016-01-31 18:26:12.525 INFO  org.quartz.core.QuartzScheduler - JobFactory set to: org.springframework.scheduling.quartz.AdaptableJobFactory@2818c008
+2016-01-31 18:26:12.562 INFO  org.quartz.core.QuartzScheduler - Scheduler org.springframework.scheduling.quartz.SchedulerFactoryBean#0_$_NON_CLUSTERED started.
+2016-01-31 18:26:12.562 DEBUG o.quartz.core.QuartzSchedulerThread - batch acquisition of 0 triggers
+2016-01-31 18:26:13.522 DEBUG org.quartz.utils.UpdateChecker - Checking for available updated version of Quartz...
+2016-01-31 18:26:37.017 DEBUG o.quartz.core.QuartzSchedulerThread - batch acquisition of 0 triggers
+2016-01-31 18:27:01.336 DEBUG o.quartz.core.QuartzSchedulerThread - batch acquisition of 0 triggers
+2016-01-31 18:27:29.998 DEBUG o.quartz.core.QuartzSchedulerThread - batch acquisition of 0 triggers
+2016-01-31 18:27:59.780 DEBUG o.quartz.core.QuartzSchedulerThread - batch acquisition of 0 triggers
+2016-01-31 18:28:25.153 DEBUG o.quartz.core.QuartzSchedulerThread - batch acquisition of 0 triggers
+2016-01-31 18:28:58.143 INFO  org.quartz.impl.StdSchedulerFactory - Using default implementation for ThreadExecutor
+2016-01-31 18:28:58.157 INFO  o.quartz.core.SchedulerSignalerImpl - Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl
+2016-01-31 18:28:58.157 INFO  org.quartz.core.QuartzScheduler - Quartz Scheduler v.2.2.1 created.
+2016-01-31 18:28:58.158 INFO  org.quartz.simpl.RAMJobStore - RAMJobStore initialized.
+2016-01-31 18:28:58.159 INFO  org.quartz.core.QuartzScheduler - Scheduler meta-data: Quartz Scheduler (v2.2.1) 'org.springframework.scheduling.quartz.SchedulerFactoryBean#0' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'org.quartz.core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'org.quartz.simpl.SimpleThreadPool' - with 10 threads.
+  Using job-store 'org.quartz.simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+
+2016-01-31 18:28:58.159 INFO  org.quartz.impl.StdSchedulerFactory - Quartz scheduler 'org.springframework.scheduling.quartz.SchedulerFactoryBean#0' initialized from an externally provided properties instance.
+2016-01-31 18:28:58.159 INFO  org.quartz.impl.StdSchedulerFactory - Quartz scheduler version: 2.2.1
+2016-01-31 18:28:58.160 INFO  org.quartz.core.QuartzScheduler - JobFactory set to: org.springframework.scheduling.quartz.AdaptableJobFactory@41947ec7
+2016-01-31 18:28:58.200 INFO  org.quartz.core.QuartzScheduler - Scheduler org.springframework.scheduling.quartz.SchedulerFactoryBean#0_$_NON_CLUSTERED started.
+2016-01-31 18:28:58.200 DEBUG o.quartz.core.QuartzSchedulerThread - batch acquisition of 0 triggers
+2016-01-31 18:28:59.157 DEBUG org.quartz.utils.UpdateChecker - Checking for available updated version of Quartz...
+2016-01-31 18:29:11.924 DEBUG SubjectMapper.getSubjectList - ==>  Preparing: select subject.id, subject.name, subject.parent_id from subject 
+2016-01-31 18:29:11.962 DEBUG SubjectMapper.getSubjectList - ==> Parameters: 
+2016-01-31 18:29:11.991 DEBUG SubjectMapper.getSubjectList - <==      Total: 1
+2016-01-31 18:29:21.856 DEBUG o.quartz.core.QuartzSchedulerThread - batch acquisition of 0 triggers
